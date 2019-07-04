@@ -33,7 +33,7 @@
     "node": ">=8"
   },
   "peerDependencies": {
-    "@babel/register": "*",
+    "@babel/register": ">=7.4.4",
     "babel-plugin-istanbul": ">=5"
   }
 }
